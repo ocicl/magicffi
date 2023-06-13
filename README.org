@@ -1,0 +1,10 @@
+* magicffi
+
+Common Lisp interface to libmagic based on CFFI
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/guicho271828/magicffi.git   |
+| commit  | fa5f195  |
+| systems | magicffi |
+|---------+-------------------------------------------|
+
