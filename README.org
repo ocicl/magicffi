@@ -8,3 +8,4 @@ Common Lisp interface to libmagic based on CFFI
 | systems | magicffi |
 |---------+-------------------------------------------|
 
+ 
